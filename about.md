@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Pranav Singh. I'm a second-year Linguistics and Computer Science student at UCLA
 
-### More Information
+### Email me if you'd like to collaborate.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[pranavs99@ucla.edu](mailto:pranavs99@ucla.edu)
