@@ -17,7 +17,7 @@ In my free time, I love to maintain my <a href="https://open.spotify.com/user/12
 
 Text me at (408) 660-0038 if you'd like to set up a call.
 
-Send me a connection request on my <a href="https://www.linkedin.com/in/pranavs99/" target="_blank">LinkedIn</a>.
+Send me a connection request on <a href="https://www.linkedin.com/in/pranavs99/" target="_blank">my LinkedIn</a>.
 
 Email me at [pranavs99@ucla.edu](mailto:pranavs99@ucla.edu).
 
