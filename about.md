@@ -11,12 +11,12 @@ I originally came in as an astrophysics major, but after my terrible first quart
 I'm involved in ACM AI at UCLA, where I attend workshops to hone my AI and ML skills (which you can read about in that tab). If you're looking for another solid resource for learning about AI and ML, I strongly recommend checking out ACM AI President <a href="https://adeshpande3.github.io/adeshpande3.github.io/" target="_blank">Adit's website</a>. I'm also involved in the <a href="http://processing.linguistics.ucla.edu/" target="_blank">UCLA Language Processing Lab</a>, where I collect and analyze data for Ph.D students in the department. We also have research groups, where we write papers on and design experiments to test today's most innovative linguistic topics.
 Next year, I plan to start my own NLP club called BruinNLP and become an Office of Undergraduate Admission Tour Guide.
 
-In my free time, I love to maintain my [Spotify](https://open.spotify.com/user/1234704652?si=k6Dt_IgnTeKmHmJrtRzHtg).
+In my free time, I love to maintain my <a href="https://open.spotify.com/user/1234704652?si=k6Dt_IgnTeKmHmJrtRzHtg" target="_blank">Spotify</a>.
 
 ### If you'd like to contact me, choose your favorite method. Carrier pigeons are not currently accepted.
 
 Text me at (408) 660-0038 if you'd like to set up a call.
 
-Send me a connection request on [my LinkedIn](https://www.linkedin.com/in/pranavs99/).
+Send me a connection request on my <a href="https://www.linkedin.com/in/pranavs99/" target="_blank">LinkedIn</a>.
 
 Email me at [pranavs99@ucla.edu](mailto:pranavs99@ucla.edu).
