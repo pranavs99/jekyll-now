@@ -8,4 +8,6 @@ Throughout the world of AI/ML, there are endless applications in every field ran
 
 Here's a little more about me in case you gave a [crap](about.md). 
 
+<!-- find a way to link internally
 Here's me [welcoming you]({{ site.baseurl }}{% link _posts/2018-08-13-welcome.md %})
+-->
