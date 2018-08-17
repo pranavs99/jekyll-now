@@ -8,4 +8,4 @@ Throughout the world of AI/ML, there are endless applications in every field ran
 
 Here's a little more about me in case you gave a [crap](about.md). 
 
-Here's me [welcoming you]({% post_url /_posts/2018-08-13-welcome.md %}).
+Here's me [welcoming you]({% post_url /_posts/2018-08-13-welcome %}).
