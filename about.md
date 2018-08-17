@@ -14,10 +14,11 @@ Next year, I plan to start my own NLP club called BruinNLP and become an Office 
 In my free time, I love to maintain my <a href="https://open.spotify.com/user/1234704652?si=k6Dt_IgnTeKmHmJrtRzHtg" target="_blank">Spotify</a>.
 
 ### If you'd like to contact me, choose your favorite method.
-#### Carrier pigeons are not currently accepted.
 
 Text me at (408) 660-0038 if you'd like to set up a call.
 
 Send me a connection request on my <a href="https://www.linkedin.com/in/pranavs99/" target="_blank">LinkedIn</a>.
 
 Email me at [pranavs99@ucla.edu](mailto:pranavs99@ucla.edu).
+
+##### Carrier pigeons are not currently accepted.
