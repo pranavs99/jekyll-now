@@ -24,6 +24,12 @@ A *positive relationship* is a relationship where an **increase** in the predict
 
 These relationships are made mathematical by the *sign* of the *m*-value. A positive relationship is signified by an _m_-value greater than 0 (or just positive), while a negative relationship is signified by an _m_-value less than 0 (or just negative).
 
-But then we arrive at the *b* term because of the situations where *x* = 0. If there wasn't a constant added to the entire equation, every single graph would have a (0, 0) point. That just doesn't make sense. For the height-weight example, you could say that it might, but when you look at an age-height example, (0, 0) doesn't make any sense. We aren't born at age 0 with a height of 0 inches! Instead, we have to "offset" the line by a certain term to make sure that the *x* = 0 case makes sense. Formally, the *b* term is known as the __y-intercept__.
+But what about the *b* term? Well, if there wasn't a constant added to the entire equation, every single graph would have a (0, 0) point. That just doesn't make sense. For the height-weight example, you could say that it might, but when you look at an age-height example, (0, 0) doesn't make any sense. We aren't born at age 0 with a height of 0 inches! Instead, we have to "offset" the line by a certain term to make sure that the *x* = 0 case makes sense. Formally, the *b* term is known as the __y-intercept__, or the _y_-value at which the line intercepts the *y*-axis.
+
+Let's look at the numerical calculation now:
+
+![_config.yml]({{ site.baseurl }}/images/slopeformula.gif)
+
+And now let's define the terms:
 
 
