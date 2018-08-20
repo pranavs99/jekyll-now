@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Sigmoid vs. softmax: What's the difference?
+title: Sigmoid and softmax: What are they and what's the difference?
 ---
 
-### What are they in the first place?
+In this post, we're going to learn what the sigmoid and softmax functions are, where they're used, why they're used there, and compare them so you know which one to use.
+
+## What are they in the first place?
 
 The sigmoid and the softmax function are both used in the same exact place: the output level of logistic regression. But how does it fit into the entire process?
 
-If we have a classifier that sorts pictures into one of three classes: dog, cat, and goldfish, then the structure of the network will be the following: input layer, weight matrix, and then activation layer. The input layer is where we give our network each picture (probably as a flattened vector), which will influence a weight matrix via the loss function, and then output a continuous value. **Sigmoid and softmax functions are used here.**
+If we have a classifier that sorts pictures into one of three classes: dog, cat, and goldfish, then the structure of the network will be the following: input layer, weight matrix, and then activation layer. The input layer is where we give our network each picture (probably as a flattened vector), which will influence a weight matrix via the loss function, and then output a continuous value. *This is where we use the sigmoid or the softmax function.*
 
-##### The activation layer
+#### Pause. What's the activation layer?
 
-You may have noticed that term when I was describing the neural network's structure: the *activation layer*. An activation layer is what separates a linear regression from a logistic regression, because a linear regression is simply a logistic regression without this layer.
+An activation layer is what separates a linear regression from a logistic regression: it transforms what are previously continuous values into *class predictions*. Essentially, the activation layer turns a linear regression into a logistic regression, and its absence turns a logistic regression into a linear regression.
 
-The point of this activation layer is to turn the continuous values into class predictions. We can accomplish this by applying either the sigmoid or softmax **FINISH THIS 8/19 7:16pm**
+**FINISH THIS 8/19 7:16pm**
