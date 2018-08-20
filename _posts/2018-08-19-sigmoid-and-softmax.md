@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sigmoid and softmax
+permalink: /aiml/sigmoid-and-softmax/
 ---
 
 In this post, we're going to learn what the sigmoid and softmax functions are, where and why they're used, and compare them.
