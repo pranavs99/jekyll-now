@@ -47,7 +47,7 @@ And now let's define the terms:
 
 ![_config.yml]({{ site.baseurl }}/images/ybar.gif) is the mean of all response variable values. Calculate this by summing all of them and then diving by ![_config.yml]({{ site.baseurl }}/images/latexn.gif).
 
-This method of calculating the slope is known as the __sum of squares method__ because that's what the equation looks like it's doing. What you're actually doing is calculating the **covariance** of *x* and *y*, but that's not really as important. Just know that there's a mathematical way to calculate the slope. After we have the slope, we're going to calculate the bias by substituting in any nonzero value of *x* and rearranging the equation to isolate ![_config.yml]({{ site.baseurl }}/images/latexb.gif). There we have it: our line of best fit.
+This method of calculating the slope is known as the __sum of squares method__ because that's what the equation looks like it's doing. What you're actually doing is calculating the **covariance** between the predictor and the response variable. After we have the slope, we're going to calculate the bias by substituting in any nonzero value of ![_config.yml]({{ site.baseurl }}/images/latexx.gif) and rearranging the equation to isolate ![_config.yml]({{ site.baseurl }}/images/latexb.gif). There we have it: our line of best fit.
 
 You may have wondered why I spend so much time explaining a basic statistical concept to you. That's because linear regression in machine learning is exactly the same thing, just with higher dimensions. Here's what I mean.
 
