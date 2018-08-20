@@ -8,7 +8,7 @@ Throughout the world of AI/ML, there are endless applications in every field ran
 
 #### August 19, 2018
 AI/ML tab:
-<!-- [Sigmoid and softmax: What are they and what's the difference?](https://pranavs99.github.io/sigmoid-and-softmax/) -->
+[Sigmoid and softmax: What are they and what's the difference?](https://pranavs99.github.io/sigmoid-and-softmax/)
 
 <!-- how to link to files at the same level
 Here's a little more about me in case you gave a [crap](about.md).
