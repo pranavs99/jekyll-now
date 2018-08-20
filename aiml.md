@@ -11,6 +11,7 @@ Throughout the world of AI/ML, there are endless applications in every field ran
 AI/ML tab:
 
 [Sigmoid and softmax: What are they and what's the difference?](https://pranavs99.github.io/aiml-sigmoid-and-softmax/)
+
 [Linear and logistic regression: Why do they matter?](https://pranavs99.github.io/aiml-linear-and-logistic-regression/)
 
 <!-- how to link to files at the same level
