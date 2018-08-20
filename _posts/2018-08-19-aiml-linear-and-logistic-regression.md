@@ -5,9 +5,7 @@ title: Linear and logistic regression
 
 In this post, we're going to look at the absolute backbone of machine learning: regression. We'll start off with explaining both linear and logistic regression separately, and then we'll compare and contrast them.
 
-## First, linear regression
-
-### But what is regression in the first place?
+## But what is regression in the first place?
 
 Before we even talk about regression, we need to talk about the goal of statistics: to determine knowledge from data points. Regression is simply a manifestation of that. In **simple linear regression**, the act of regression on a two-variable graph, we're going to come up with an equation of a *line* that best represents the data we have here. This is known as the **line of best fit**.
 
