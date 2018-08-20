@@ -7,7 +7,7 @@ In this post, we're going to look at the absolute backbone of machine learning: 
 
 ## But what is regression in the first place?
 
-Before we even talk about regression, we need to talk about the goal of statistics: to determine knowledge from data points. Regression is simply a manifestation of that. In **simple linear regression**, the act of regression on a two-variable graph, we're going to come up with an equation of a *line* that best represents the data we have here. This is known as the **line of best fit**.
+Before we even talk about regression, let's consider the goal of statistics: to determine knowledge from data points. Regression one of the ways we can accomplish this. In **simple linear regression**, the act of regression on a two-variable graph, we're going to come up with an equation of a *line* that best represents the data we have here. This is known as the **line of best fit**.
 
 *An important aside: regression is not used when there is a deterministic relationship, such as diameter to circumference. Regression is only used when there is* no known deterministic relationship *and we must therefore attempt to establish a* statistical relationship.
 
