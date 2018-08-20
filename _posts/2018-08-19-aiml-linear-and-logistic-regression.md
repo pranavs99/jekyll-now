@@ -35,19 +35,19 @@ Let's look at the numerical calculation now:
 
 And now let's define the terms:
 
-![_config.yml]({{ site.baseurl }}/images/sigma.gif) is the summation symbol. Calculate every value with i = 1, and then increment it until i = n. Sum all these values.
+![_config.yml]({{ site.baseurl }}/images/sigma.gif) is the summation symbol. Calculate every value with ![_config.yml]({{ site.baseurl }}/images/latexi.gif) = 1, and then increment it until ![_config.yml]({{ site.baseurl }}/images/latexi.gif) = ![_config.yml]({{ site.baseurl }}/images/latexn.gif). Sum these values.
 
 ![_config.yml]({{ site.baseurl }}/images/latexn.gif) is the number of coordinate points.
 
 ![_config.yml]({{ site.baseurl }}/images/latexi.gif) is the iterator for the summation.
 
-![_config.yml]({{ site.baseurl }}/images/xsubi.gif) is every individual predictor variable value that you'll be calculating. It will change depending on what i is.
+![_config.yml]({{ site.baseurl }}/images/xsubi.gif) is every individual predictor variable value that you'll be calculating. It will change depending on what ![_config.yml]({{ site.baseurl }}/images/latexi.gif) is.
 
-![_config.yml]({{ site.baseurl }}/images/xbar.gif) is the mean of all predictor variable values. Calculate this by summing all of them and then dividing by n.
+![_config.yml]({{ site.baseurl }}/images/xbar.gif) is the mean of all predictor variable values. Calculate this by summing all of them and then dividing by ![_config.yml]({{ site.baseurl }}/images/latexn.gif).
 
-![_config.yml]({{ site.baseurl }}/images/ysubi.gif) is the every individual response variable value that you'll be calculating. Like its predictor variable counterpart, it will change depending on what i is.
+![_config.yml]({{ site.baseurl }}/images/ysubi.gif) is every individual response variable value that you'll be calculating. Like its predictor variable counterpart, it will change depending on what ![_config.yml]({{ site.baseurl }}/images/latexi.gif) is.
 
-![_config.yml]({{ site.baseurl }}/images/ybar.gif) is the mean of all response variable values. Calculate this by summing all of them and then diving by n.
+![_config.yml]({{ site.baseurl }}/images/ybar.gif) is the mean of all response variable values. Calculate this by summing all of them and then diving by ![_config.yml]({{ site.baseurl }}/images/latexn.gif).
 
 This method of calculating the slope is known as the __sum of squares method__ because that's what the equation looks like it's doing. What you're actually doing is calculating the **covariance** of *x* and *y*, but that's not really as important. Just know that there's a mathematical way to calculate the slope. After we have the slope, we're going to calculate the bias by substituting in any nonzero value of *x* and rearranging the equation to isolate *b*. There we have it: our line of best fit.
 
