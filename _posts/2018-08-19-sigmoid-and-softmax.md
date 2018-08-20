@@ -3,7 +3,7 @@ layout: post
 title: Sigmoid and softmax: What are they and what's the difference?
 ---
 
-In this post, we're going to learn what the sigmoid and softmax functions are, where they're used, why they're used there, and compare them so you know which one to use.
+In this post, we're going to learn what the sigmoid and softmax functions are, where and why they're used, and compare them.
 
 ## What are they in the first place?
 
