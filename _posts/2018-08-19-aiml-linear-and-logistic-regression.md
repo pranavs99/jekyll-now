@@ -5,13 +5,16 @@ title: Linear and logistic regression
 
 In this post, we're going to look at the absolute backbone of machine learning: regression. We'll start off with explaining both linear and logistic regression separately, and then we'll compare and contrast them.
 
-## What is regression in the first place?
+## Linear regression
+
+#### What is regression in the first place?
 
 Before we even talk about regression, we need to talk about the goal of statistics: to determine knowledge from data points. Regression is simply a manifestation of that. In **simple linear regression**, the act of regression on a two-variable graph, we're going to come up with an equation of a *line* that best represents the data we have here. This is known as the **line of best fit**.
 
 *An important aside: regression is not used when there is a deterministic relationship, such as diameter to circumference. Regression is only used when there is* no known deterministic relationship *and we must therefore attempt to establish a* statistical relationship.
 
 ![_config.yml]({{ site.baseurl }}/images/regression3.png)
+
 *taken from* https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/graphs/scatterplot/create-the-graph/choose-a-scatterplot/
 
 In this graph, we have a set of data points relating height and weight. Height is graphed along the *x*-axis, while weight is graphed along the *y*-axis. This tells us that weight is *dependent* on height. In fact, we can establish some terminology for the axes: the horizontal axis is the **predictor variable** and the vertical axis is the **response variable**, or the variable whose value we're trying to predict. Now, let's come up with the line of best fit. Here's the general equation:
@@ -32,4 +35,24 @@ Let's look at the numerical calculation now:
 
 And now let's define the terms:
 
+![_config.yml]({{ site.baseurl }}/images/sigma.gif) is the summation symbol. Calculate every value with i = 1, and then increment it until i = n. Sum all these values.
 
+![_config.yml]({{ site.baseurl }}/images/latexn.gif) is the number of coordinate points.
+
+![_config.yml]({{ site.baseurl }}/images/latexi.gif) is the iterator for the summation.
+
+![_config.yml]({{ site.baseurl }}/images/xsubi.gif) is every individual predictor variable value that you'll be calculating. It will change depending on what i is.
+
+![_config.yml]({{ site.baseurl }}/images/xbar.gif) is the mean of all predictor variable values. Calculate this by summing all of them and then dividing by n.
+
+![_config.yml]({{ site.baseurl }}/images/ysubi.gif) is the every individual response variable value that you'll be calculating. Like its predictor variable counterpart, it will change depending on what i is.
+
+![_config.yml]({{ site.baseurl }}/images/ybar.gif) is the mean of all response variable values. Calculate this by summing all of them and then diving by n.
+
+This method of calculating the slope is known as the __sum of squares method__ because that's what the equation looks like it's doing. What you're actually doing is calculating the **covariance** of *x* and *y*, but that's not really as important. Just know that there's a mathematical way to calculate the slope. After we have the slope, we're going to calculate the bias by substituting in any nonzero value of *x* and rearranging the equation to isolate *b*. There we have it: our line of best fit.
+
+You may have wondered why I spend so much time explaining a basic statistical concept to you. That's because linear regression in machine learning is exactly the same thing, just with higher dimensions. Here's what I mean.
+
+#### Extrapolating to higher dimensions
+
+Here's a picture of a scatter plot in three dimensions.
