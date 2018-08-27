@@ -49,8 +49,10 @@ And now let's define the terms:
 
 This method of calculating the slope is known as the __sum of squares method__ because that's what the equation looks like it's doing. What you're actually doing is calculating the **covariance** between the predictor and the response variable. After we have the slope, we're going to calculate the bias by substituting in any nonzero value of ![_config.yml]({{ site.baseurl }}/images/latexx.gif) and rearranging the equation to isolate ![_config.yml]({{ site.baseurl }}/images/latexb.gif). There we have it: our line of best fit.
 
-You may have wondered why I spend so much time explaining a basic statistical concept to you. That's because linear regression in machine learning is exactly the same thing, just with higher dimensions. Here's what I mean.
+You may have wondered why I spend so much time explaining a basic statistical concept to you. That's because it serves as the backbone to understanding the Tensorflow implementation
 
-### Extrapolating to higher dimensions
+### Coding
 
 Here's a picture of a scatter plot in three dimensions.
+
+__FINISH THIS 8/27 3:28pm
