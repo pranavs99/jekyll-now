@@ -32,4 +32,6 @@ AI/ML tab:
 
 AI/ML tab:
 
-[Gradient descent: Undergraduate math becoming useful.](https://pranavs99.github.io/aiml-gradient-descent/)
+[Gradient descent: Undergraduate math becoming useful](https://pranavs99.github.io/aiml-gradient-descent/)
+
+[Course notes on Andrew Ng's ML course](https://pranavs99.github.io/aiml-andrew-ng-course-notes/)
