@@ -8,4 +8,4 @@ Money is the most important thing in the entire world. Therefore, we need to kno
 
 #### August 20, 2018
 
-[The Nasdaq Dozen: A 12-step laundry list that'll tell you which stock to buy](https://pranavs99.github.io/money-the-nasdaq-dozen/)
+[The Nasdaq Dozen: A 12-step laundry list to test the potential of a stock](https://pranavs99.github.io/money-the-nasdaq-dozen/)
